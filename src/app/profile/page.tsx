@@ -137,11 +137,8 @@ export default function Page() {
                 About Me
               </h4>
               <p className="mt-4">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque posuere fermentum urna, eu condimentum mauris
-                tempus ut. Donec fermentum blandit aliquet. Etiam dictum dapibus
-                ultricies. Sed vel aliquet libero. Nunc a augue fermentum,
-                pharetra ligula sed, aliquam lacus.
+                Hello, I’m the admin of this dashboard. I oversee the platform's daily operations, ensure data integrity, provide support to users whenever needed. My focus is creating seamless experience for everyone who interacts with our system. If you encounter any issues or have suggestions, I’m here to help!
+
               </p>
             </div>
 

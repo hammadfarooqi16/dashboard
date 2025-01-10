@@ -16,19 +16,19 @@ export default function Page() {
         <Alert
           variant="warning"
           title="Attention Needed"
-          description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when"
+          description="Warning! Changes may affect system performance."
         />
 
         <Alert
           variant="success"
           title="Message Sent Successfully"
-          description="Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+          description="Ensure all fields are filled before submitting."
         />
 
         <Alert
           variant="error"
           title="There were 1 errors with your submission"
-          description="Lorem Ipsum is simply dummy text of the printing"
+          description="Unauthorized access detected!"
         />
       </div>
     </>
